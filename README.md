@@ -57,15 +57,6 @@ After comprehensive analysis:
 3. **Refine promotion strategy** based on historical ROI.
 4. Use **forecasting and waterfall visualization** to justify strategic plans for 2024.
 
----
-
-## 📚 Credits
-
-- Case Study Content: [DataCamp NRM Case Study Simulation](https://www.datacamp.com/)
-- Created as part of a business analytics exercise.
-
----
-
 
 
 
